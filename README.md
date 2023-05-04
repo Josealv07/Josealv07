@@ -35,5 +35,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Josealv07&theme=merko&card_width=494)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealv07&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealv07&show_icons=true&theme=merko&card_width=494&card_align=center)
 
