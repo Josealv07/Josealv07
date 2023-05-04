@@ -14,7 +14,7 @@
 - :construction_worker: Software developer and electrical engineer ...
 - :movie_camera: I regularly upload videos on [Mas07sencillo](https://www.youtube.com/channel/UCrKjPs5kaYL9UVuQrgN5biQ)
 - :soccer: I’m sports passionate, especially soccer
-- :books: Always learning, passionate of knogledge
+- :books: Always learning, passionate of knowledge
 -  :mortar_board: ENG -> B2 | FRA -> B1 | SPA -> Native
 ---
 <div id="icons" align="center">
